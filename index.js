@@ -1,3 +1,3 @@
 // Write your solution here!
 const drivers = []
-appendDriver('Milo', 'Otis', 'Garfield');
+drivers.appendDriver('Milo', 'Otis', 'Garfield');
