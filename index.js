@@ -2,4 +2,3 @@
 const drivers = []
 
  drivers.push('Milo', 'Otis', 'Garfield');
-
